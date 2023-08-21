@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.4.1",
+        "phpoffice/phpspreadsheet": "^1.17.1",
+        "tecnickcom/tcpdf": "^6.6",
+        "snapappointments/bootstrap-select": "v1.13.18",
+        "pusher/pusher-php-server": "^7.2",
+        "ultramsg/whatsapp-php-sdk": "^2.0",
+        "mobiledetect/mobiledetectlib": "^2.8"
+    }
+}

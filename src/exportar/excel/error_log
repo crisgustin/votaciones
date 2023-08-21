@@ -1,0 +1,2 @@
+[19-Nov-2021 01:45:18 UTC] PHP Warning:  require_once(../../helpers/Incumplimiento.php): failed to open stream: No such file or directory in /home/desarro4/public_html/encuestas/src/exportar/excel/aprendices_incumplidos.php on line 7
+[19-Nov-2021 01:45:18 UTC] PHP Fatal error:  require_once(): Failed opening required '../../helpers/Incumplimiento.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/desarro4/public_html/encuestas/src/exportar/excel/aprendices_incumplidos.php on line 7

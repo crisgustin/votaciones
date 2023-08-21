@@ -1,0 +1,17 @@
+    body{
+        padding: 0;
+        margin: 0;
+        background: #333;
+    }
+    #map-template{
+        height: 80%;
+        width: 80%;
+        top: 50px;
+        left: 10%;
+        position: absolute;
+
+    }
+
+    h4 { color: #FFF; }
+
+Expandir código
